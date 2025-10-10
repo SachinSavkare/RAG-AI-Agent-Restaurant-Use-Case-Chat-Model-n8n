@@ -47,9 +47,9 @@ This ensures instant, accurate, and source-backed answers to operational and cus
 
 **Visual Workflows:**
 
-* [Workflow 1 — Data Ingestion](https://github.com/SachinSavkare/RAG-AI-Agent-Restaurant-Use-Case-Chat-Model-n8n/blob/main/RAG%20AI%20Agent%20(Restaurant)%20Chat%20Model.JPG)
-* [Workflow 2 — Chat / Query Agent](https://github.com/SachinSavkare/RAG-AI-Agent-Restaurant-Use-Case-Chat-Model-n8n/blob/main/RAG%20AI%20Agent%20(Restaurant)%20Chat%20Model.JPG)
-
+* ![Workflow 1 — Data Ingestion](https://github.com/SachinSavkare/RAG-AI-Agent-Restaurant-Use-Case-Chat-Model-n8n/blob/main/RAG%20AI%20Agent%20(Restaurant)%20Chat%20Model.JPG)
+* ![Workflow 2 — Chat / Query Agent](https://github.com/SachinSavkare/RAG-AI-Agent-Restaurant-Use-Case-Chat-Model-n8n/blob/main/RAG%20AI%20Agent%20(Restaurant)%20Chat%20Model.JPG)
+  
 **Mermaid Overview:**
 
 ```mermaid
